@@ -1,6 +1,6 @@
 # Tranformations
 
-This project is a set of scripts to trnasfor the data in BigQuery.
+This project is a set of scripts to transform the data in BigQuery.
 
 ## File Definitions
 
