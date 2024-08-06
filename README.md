@@ -1,6 +1,6 @@
-# FindMyMail Callback Server
+# Tranformations
 
-This project is a simple web server built using `aiohttp` to handle POST requests containing contact information, extract relevant details, and save them to a CSV file and Google BigQuery.
+This project is a set of scripts to trnasfor the data in BigQuery.
 
 ## File Definitions
 
